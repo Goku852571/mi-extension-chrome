@@ -1,0 +1,110 @@
+{
+    "title": "grabar",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1222,
+            "height": 898,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://studio.youtube.com/playlist/PLBmpYJ7BY0vQ/videos",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://studio.youtube.com/playlist/PLBmpYJ7BY0vQ/videos",
+                    "title": "Vídeos - YouTube Studio"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.right-col"
+                ],
+                [
+                    "xpath///*[@id=\"scrollable-content\"]/ytcp-uploads-review/div[3]"
+                ],
+                [
+                    "pierce/div.right-col"
+                ]
+            ],
+            "offsetY": 422,
+            "offsetX": 129
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#done-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"done-button\"]/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#done-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 20,
+            "offsetX": 61.53125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-prechecks-warning-dialog div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"primary-action-button\"]/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytcp-prechecks-warning-dialog div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 20,
+            "offsetX": 61.9478759765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytsp-sponsors-only-video-post-dialog div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"close-button\"]/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytsp-sponsors-only-video-post-dialog div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 37.7916259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-uploads-still-processing-dialog div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"close-button\"]/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytcp-uploads-still-processing-dialog div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 39.7916259765625
+        }
+    ]
+}

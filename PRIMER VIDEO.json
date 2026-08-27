@@ -1,0 +1,1082 @@
+{
+    "title": "PRIMER VIDEO",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1152,
+            "height": 898,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://studio.youtube.com/channel/UCVGl_hfHsaJbWJxkm5ZDWgw/content",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://studio.youtube.com/channel/UCVGl_hfHsaJbWJxkm5ZDWgw/content",
+                    "title": "Contenido del canal - YouTube Studio"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 6.33331298828125,
+            "offsetX": 205
+        },
+        {
+            "type": "change",
+            "value": "LINK DE PATREON: https://www.patreon.com/MundoNovelas/posts/comienzo-con-el-160825072?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nLINK DE KO-FI:\n\nDescargo de responsabilidad: ni la imagen ni el contenido me pertenecen. Se cargan aquí, no para ningún mal propósito, sino solo para entretenimiento.\n\nDescargo de responsabilidad: si esta novela es suya, permítanos compartir esta novela con todos los demás y envíenos su crédito. ¡Mostramos su crédito a esta novela! Si no nos lo dice también, respetamos su decisión.\n\n---------------------------------\n\n★ DISCLAIMER ★ I do not own novels, music, illustrations or lyrics. All rights reserved to their respective owners!!! This video is not intended to infringe any of the copyright. This is to promote.\n\n★ Copyright Disclaimer ★\nTitle 17, US Code UU. (Sections 107-118 of the copyright law, Act 1976):\nAll media in this video are used for review and comment purposes in terms of fair use. All images and images used belong to their respective companies.\nFair use is a use permitted by copyright law that could otherwise be infringing.",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 139.33331298828125,
+            "offsetX": 168
+        },
+        {
+            "type": "change",
+            "value": "LINK DE PATREON: https://www.patreon.com/MundoNovelas/posts/comienzo-con-el-160825072?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nLINK DE KO-FI: https://ko-fi.com/post/ADELANTO-KAGE-Comienzo-con-Torres-debo-revitali-O2Z52181ID\n\n\n\nDescargo de responsabilidad: ni la imagen ni el contenido me pertenecen. Se cargan aquí, no para ningún mal propósito, sino solo para entretenimiento.\n\nDescargo de responsabilidad: si esta novela es suya, permítanos compartir esta novela con todos los demás y envíenos su crédito. ¡Mostramos su crédito a esta novela! Si no nos lo dice también, respetamos su decisión.\n\n---------------------------------\n\n★ DISCLAIMER ★ I do not own novels, music, illustrations or lyrics. All rights reserved to their respective owners!!! This video is not intended to infringe any of the copyright. This is to promote.\n\n★ Copyright Disclaimer ★\nTitle 17, US Code UU. (Sections 107-118 of the copyright law, Act 1976):\nAll media in this video are used for review and comment purposes in terms of fair use. All images and images used belong to their respective companies.\nFair use is a use permitted by copyright law that could otherwise be infringing.",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 205.33331298828125,
+            "offsetX": 22
+        },
+        {
+            "type": "change",
+            "value": "LINK DE PATREON: https://www.patreon.com/MundoNovelas/posts/comienzo-con-el-160825072?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nLINK DE KO-FI: https://ko-fi.com/post/ADELANTO-KAGE-Comienzo-con-Torres-debo-revitali-O2Z52181ID\n\nComienzo con Torres: debo revitalizar el fútbol alemán.\nSINOPSIS.\nTras la gloria del Mundial de 2014, el fútbol alemán comienza una caída humillante: Corea del Sur lo sentencia en 2018 y Japón vuelve a hundirlo en 2022. En medio de ese futuro desastroso, Zhao Jingge despierta en el pasado con una misión brutal: reconstruir la grandeza alemana o sufrir el castigo de un sistema implacable. Joven de ascendencia china, renacido antes de perder su sueño futbolístico, recibe un poder extraordinario: la plantilla de Fernando Torres, un cuerpo casi indestructible y la ambición de desafiar a Europa. En el Wolfsburg, donde nadie espera demasiado de un suplente de dieciséis años, su entrada cambia partidos, rompe defensas y convierte dudas en ovaciones. Paderborn descubre su velocidad; Dortmund tiembla en el Westfalenstadion; Bayern empieza a mirar con inquietud. Pero cada gol trae más presión, rivales más feroces y una pregunta decisiva: ¿podrá un solo prodigio alterar el destino de una selección entera? Entre recuerdos del futuro, fama temprana y una amenaza constante, Zhao inicia una carrera destinada a convertirse en leyenda. El ascenso promete batallas inolvidables, títulos imposibles y una revolución capaz de cambiar la historia alemana.\n\n\nDescargo de responsabilidad: ni la imagen ni el contenido me pertenecen. Se cargan aquí, no para ningún mal propósito, sino solo para entretenimiento.\n\nDescargo de responsabilidad: si esta novela es suya, permítanos compartir esta novela con todos los demás y envíenos su crédito. ¡Mostramos su crédito a esta novela! Si no nos lo dice también, respetamos su decisión.\n\n---------------------------------\n\n★ DISCLAIMER ★ I do not own novels, music, illustrations or lyrics. All rights reserved to their respective owners!!! This video is not intended to infringe any of the copyright. This is to promote.\n\n★ Copyright Disclaimer ★\nTitle 17, US Code UU. (Sections 107-118 of the copyright law, Act 1976):\nAll media in this video are used for review and comment purposes in terms of fair use. All images and images used belong to their respective companies.\nFair use is a use permitted by copyright law that could otherwise be infringing.",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 211.33331298828125,
+            "offsetX": 0,
+            "duration": 1676.199999999255
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Control"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "C"
+        },
+        {
+            "type": "keyUp",
+            "key": "C",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#html-body"
+                ],
+                [
+                    "xpath///*[@id=\"html-body\"]"
+                ],
+                [
+                    "pierce/#html-body"
+                ]
+            ],
+            "offsetY": 271,
+            "offsetX": 80,
+            "duration": 351
+        },
+        {
+            "type": "change",
+            "value": "Comienzo con Torres: debo revitalizar el fútbol alemán.",
+            "selectors": [
+                [
+                    "aria/Añade un título que describa tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#original-filename"
+                ],
+                [
+                    "xpath///*[@id=\"original-filename\"]"
+                ],
+                [
+                    "pierce/#original-filename"
+                ]
+            ],
+            "offsetY": 15.33331298828125,
+            "offsetX": 84,
+            "duration": 1512.800000000745
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Control"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "C"
+        },
+        {
+            "type": "keyUp",
+            "key": "C",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Añade un título que describa tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 13.33331298828125,
+            "offsetX": 408
+        },
+        {
+            "type": "change",
+            "value": "Comienzo con Torres: debo revitalizar el fútbol alemán  001-025",
+            "selectors": [
+                [
+                    "aria/Añade un título que describa tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#details > div > div div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"toggle-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#details > div > div div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 18.6666259765625,
+            "offsetX": 36
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Etiquetas"
+                ],
+                [
+                    "#text-input"
+                ],
+                [
+                    "xpath///*[@id=\"text-input\"]"
+                ],
+                [
+                    "pierce/#text-input"
+                ]
+            ],
+            "offsetY": 15.02081298828125,
+            "offsetX": 105.98956298828125
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Control"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "V"
+        },
+        {
+            "type": "keyUp",
+            "key": "V",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-video-custom-still-editor button > span"
+                ],
+                [
+                    "xpath///*[@id=\"select-text\"]"
+                ],
+                [
+                    "pierce/ytcp-video-custom-still-editor button > span"
+                ],
+                [
+                    "text/Subir archivo"
+                ]
+            ],
+            "offsetY": 13.33331298828125,
+            "offsetX": 7.4895782470703125
+        },
+        {
+            "type": "change",
+            "value": "C:\\fakepath\\PORTADA_1.jpg",
+            "selectors": [
+                [
+                    "#file-loader"
+                ],
+                [
+                    "xpath///*[@id=\"file-loader\"]"
+                ],
+                [
+                    "pierce/#file-loader"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Cuenta a los usuarios de qué va tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 125.33331298828125,
+            "offsetX": 379
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Control"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "A"
+        },
+        {
+            "type": "keyUp",
+            "key": "A",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "C"
+        },
+        {
+            "type": "keyUp",
+            "key": "C",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Añade un título que describa tu vídeo (escribe @ seguido del nombre de un canal para mencionarlo)"
+                ],
+                [
+                    "div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 1.33331298828125,
+            "offsetX": 467
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Control"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "A"
+        },
+        {
+            "type": "keyUp",
+            "key": "A",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "C"
+        },
+        {
+            "type": "keyUp",
+            "key": "C",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#basics div.left-container > span"
+                ],
+                [
+                    "xpath///*[@id=\"basics\"]/div[4]/div[3]/div[1]/ytcp-video-metadata-playlists/ytcp-text-dropdown-trigger/ytcp-dropdown-trigger/div/div[2]/span"
+                ],
+                [
+                    "pierce/#basics div.left-container > span"
+                ]
+            ],
+            "offsetY": 18,
+            "offsetX": 146
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.action-buttons > div div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"dialog\"]/div[2]/div/ytcp-button/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/div.action-buttons > div div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 174
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-playlist-dialog tp-yt-paper-item:nth-of-type(1) yt-formatted-string"
+                ],
+                [
+                    "xpath///*[@id=\"text-item-0\"]/ytcp-ve/tp-yt-paper-item-body/div/div/div/yt-formatted-string"
+                ],
+                [
+                    "pierce/ytcp-playlist-dialog tp-yt-paper-item:nth-of-type(1) yt-formatted-string"
+                ]
+            ],
+            "offsetY": 25,
+            "offsetX": 152
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Añade la descripción"
+                ],
+                [
+                    "ytcp-playlist-creation-dialog div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 38.5,
+            "offsetX": 138
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Añade la descripción"
+                ],
+                [
+                    "ytcp-playlist-creation-dialog div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 27.5,
+            "offsetX": 193
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Meta"
+        },
+        {
+            "type": "keyUp",
+            "key": "Meta",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "V",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "LINK DE PATREON: https://www.patreon.com/MundoNovelas/posts/comienzo-con-el-160825072?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nLINK DE KO-FI: https://ko-fi.com/post/ADELANTO-KAGE-Comienzo-con-Torres-debo-revitali-O2Z52181ID\n\nComienzo con Torres: debo revitalizar el fútbol alemán.\nSINOPSIS.\nTras la gloria del Mundial de 2014, el fútbol alemán comienza una caída humillante: Corea del Sur lo sentencia en 2018 y Japón vuelve a hundirlo en 2022. En medio de ese futuro desastroso, Zhao Jingge despierta en el pasado con una misión brutal: reconstruir la grandeza alemana o sufrir el castigo de un sistema implacable. Joven de ascendencia china, renacido antes de perder su sueño futbolístico, recibe un poder extraordinario: la plantilla de Fernando Torres, un cuerpo casi indestructible y la ambición de desafiar a Europa. En el Wolfsburg, donde nadie espera demasiado de un suplente de dieciséis años, su entrada cambia partidos, rompe defensas y convierte dudas en ovaciones. Paderborn descubre su velocidad; Dortmund tiembla en el Westfalenstadion; Bayern empieza a mirar con inquietud. Pero cada gol trae más presión, rivales más feroces y una pregunta decisiva: ¿podrá un solo prodigio alterar el destino de una selección entera? Entre recuerdos del futuro, fama temprana y una amenaza constante, Zhao inicia una carrera destinada a convertirse en leyenda. El ascenso promete batallas inolvidables, títulos imposibles y una revolución capaz de cambiar la historia alemana.\n\n\nDescargo de responsabilidad: ni la imagen ni el contenido me pertenecen. Se cargan aquí, no para ningún mal propósito, sino solo para entretenimiento.\n\nDescargo de responsabilidad: si esta novela es suya, permítanos compartir esta novela con todos los demás y envíenos su crédito. ¡Mostramos su crédito a esta novela! Si no nos lo dice también, respetamos su decisión.\n\n---------------------------------\n\n★ DISCLAIMER ★ I do not own novels, music, illustrations or lyrics. All rights reserved to their respective owners!!! This video is not intended to infringe any of the copyright. This is to promote.\n\n★ Copyright Disclaimer ★\nTitle 17, US Code UU. (Sections 107-118 of the copyright law, Act 1976):\nAll media in this video are used for review and comment purposes in terms of fair use. All images and images used belong to their respective companies.\nFair use is a use permitted by copyright law that could otherwise be infringing.\n",
+            "selectors": [
+                [
+                    "aria/Añade la descripción"
+                ],
+                [
+                    "ytcp-playlist-creation-dialog div.description ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.description ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Añade el título"
+                ],
+                [
+                    "ytcp-playlist-creation-dialog div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "offsetY": 28.5,
+            "offsetX": 94
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Meta"
+        },
+        {
+            "type": "keyUp",
+            "key": "Meta",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "V",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Comienzo con Torres: debo revitalizar el fútbol alemán  001-025",
+            "selectors": [
+                [
+                    "aria/Añade el título"
+                ],
+                [
+                    "ytcp-playlist-creation-dialog div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#html-body"
+                ],
+                [
+                    "xpath///*[@id=\"html-body\"]"
+                ],
+                [
+                    "pierce/#html-body"
+                ]
+            ],
+            "offsetY": 243,
+            "offsetX": 868
+        },
+        {
+            "type": "change",
+            "value": "Comienzo con Torres: debo revitalizar el fútbol alemán ",
+            "selectors": [
+                [
+                    "aria/Añade el título"
+                ],
+                [
+                    "ytcp-playlist-creation-dialog div.title ytcp-social-suggestion-input > div"
+                ],
+                [
+                    "xpath///*[@id=\"textbox\"]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.title ytcp-social-suggestion-input > div"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#metadata-sorting-menu div.right-container div"
+                ],
+                [
+                    "xpath///*[@id=\"right-icon\"]/span/div"
+                ],
+                [
+                    "pierce/#metadata-sorting-menu div.right-container div"
+                ]
+            ],
+            "offsetY": 32.5,
+            "offsetX": 10
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#sorting-menu tp-yt-paper-item:nth-of-type(5) yt-formatted-string"
+                ],
+                [
+                    "xpath///*[@id=\"text-item-4\"]/ytcp-ve/tp-yt-paper-item-body/div/div/div/yt-formatted-string"
+                ],
+                [
+                    "pierce/#sorting-menu tp-yt-paper-item:nth-of-type(5) yt-formatted-string"
+                ],
+                [
+                    "text/Fecha de inclusión (más antiguos)"
+                ]
+            ],
+            "offsetY": 16.5,
+            "offsetX": 176
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-playlist-creation-dialog div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"create-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytcp-playlist-creation-dialog div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 10.5,
+            "offsetX": 25.95831298828125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-button.done-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"dialog\"]/div[2]/ytcp-button[2]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytcp-button.done-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 21.33331298828125,
+            "offsetX": 47.46875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#details"
+                ],
+                [
+                    "xpath///*[@id=\"details\"]"
+                ],
+                [
+                    "pierce/#details"
+                ]
+            ],
+            "offsetY": 1723.3333740234375,
+            "offsetX": 658
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#next-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"next-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#next-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 26.7916259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#scrollable-content yt-icon div"
+                ],
+                [
+                    "xpath///*[@id=\"text-container\"]/div/ytcp-icon-button/yt-icon/span/div"
+                ],
+                [
+                    "pierce/#scrollable-content yt-icon div"
+                ]
+            ],
+            "offsetY": 4.33331298828125,
+            "offsetX": 8
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#radio-on > div:nth-of-type(1) > div:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"offRadio\"]"
+                ],
+                [
+                    "pierce/#radio-on > div:nth-of-type(1) > div:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 9.36456298828125,
+            "offsetX": 12
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#save-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"save-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#save-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 19.666656494140625,
+            "offsetX": 16.46875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#scrollable-content"
+                ],
+                [
+                    "xpath///*[@id=\"scrollable-content\"]"
+                ],
+                [
+                    "pierce/#scrollable-content"
+                ]
+            ],
+            "offsetY": 498.3333282470703,
+            "offsetX": 795
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#next-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"next-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#next-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 22,
+            "offsetX": 50.7916259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytpp-self-certification-question:nth-of-type(1) div > div > button div"
+                ],
+                [
+                    "xpath///*[@id=\"button-area-secondary-icon\"]/yt-icon/span/div"
+                ],
+                [
+                    "pierce/ytpp-self-certification-question:nth-of-type(1) div > div > button div"
+                ]
+            ],
+            "offsetY": 3.666656494140625,
+            "offsetX": 5.6666259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#VIDEO_SELF_CERTIFICATION_ANSWER_PY_NTM > div:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"radioLabel\"]"
+                ],
+                [
+                    "pierce/#VIDEO_SELF_CERTIFICATION_ANSWER_PY_NTM > div:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 11.666656494140625,
+            "offsetX": 214.3333282470703
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytpp-self-certification-predictor div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"submit-questionnaire-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytpp-self-certification-predictor div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 21.33331298828125,
+            "offsetX": 38
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#next-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"next-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#next-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 48.7916259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#next-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"next-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#next-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 48.7916259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#next-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"next-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#next-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 48.7916259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "tp-yt-paper-radio-button:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"offRadio\"]"
+                ],
+                [
+                    "pierce/tp-yt-paper-radio-button:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 10.5625,
+            "offsetX": 14.666656494140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.right-col"
+                ],
+                [
+                    "xpath///*[@id=\"scrollable-content\"]/ytcp-uploads-review/div[3]"
+                ],
+                [
+                    "pierce/div.right-col"
+                ]
+            ],
+            "offsetY": 328.33331298828125,
+            "offsetX": 90
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#done-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"done-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#done-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 49.53125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#secondary-action-button div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"secondary-action-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/#secondary-action-button div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 98.52081298828125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "ytcp-uploads-still-processing-dialog div.ytSpecTouchFeedbackShapeFill"
+                ],
+                [
+                    "xpath///*[@id=\"close-button\"]/div/ytcp-button-shape/button/yt-touch-feedback-shape/div[2]"
+                ],
+                [
+                    "pierce/ytcp-uploads-still-processing-dialog div.ytSpecTouchFeedbackShapeFill"
+                ]
+            ],
+            "offsetY": 21,
+            "offsetX": 42.7916259765625
+        }
+    ]
+}
